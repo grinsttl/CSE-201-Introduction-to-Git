@@ -1,1 +1,3 @@
-I enjoy hanging out with my friends everyday. Either hanging out in the door or playing games online its always a good time. Even if we are just walking somewhere to get food everyones always laughing.
+I enjoy hanging out with my friends everyday. Either hanging out in the dorm or playing games online its always a good time.
+
+I really don't enjoy programming in C++. compared to all the other languages I know it just has so much extra stuff that isn't necessary it feels like its there to just make knowing it harder
